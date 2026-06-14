@@ -1,0 +1,202 @@
+[
+  {
+    "turn": "Turn 1",
+    "prompt": "Our six-month anniversary is on November 15, 2026, and I still have not sorted out the gift. Check what he has been listening to on the music app recently, then look at vinyl that is trending on the marketplace right now. Keep the gift under $70, and find a good gear marketplace option too. Do not buy anything yet."
+  },
+  {
+    "turn": "Turn 2",
+    "prompt": "Check whether Derek has posted next week’s schedule. It is Thursday, so he usually has it posted by now. Check my calendar for anything from him, and tell me what my calendar looks like next week. I want to know whether I can fit anniversary dinner plans with Marcus around my shifts."
+  },
+  {
+    "turn": "Turn 3",
+    "prompt": "Marcus has a big design critique on November 15, 2026, so dinner that night will not work. Plan a small surprise for this weekend, maybe Saturday after my shift. Check whether I am working Saturday and what time I get off, then look for good restaurants near Hawthorne on the review site that are not too loud. He hates loud places, and I do too. The budget is around $50 for dinner for two."
+  },
+  {
+    "turn": "Turn 4",
+    "prompt": "Choose Pho Van for dinner since that is Marcus’s favorite spot. Draft a casual mail to Marcus asking whether he wants to do an early anniversary dinner there on Saturday night. Also check the cloud drive for anything about the Analog Lounge setlist, since Leo was supposed to update it."
+  },
+  {
+    "turn": "Turn 5",
+    "prompt": "Send the approved mail to Marcus. If the Analog Lounge setlist has not been updated in the cloud drive, draft a mail to Leo asking him to work on it. Add a calendar reminder for the Analog Lounge soundcheck on  November 16, 2026 at 7 30 PM, and add the EP session on November 24, 2026 from 3 PM to 8 PM at Pinewood Sound."
+  },
+  {
+    "turn": "Turn 6",
+    "prompt": "Send the mail to Leo. Check my banking portal and tell me how much is in checking right now. I want to make sure rent will be okay this month. Also check whether the credit card payment went through this month."
+  },
+  {
+    "turn": "Turn 7",
+    "prompt": "Check what shifts I still have left this month and estimate what I will earn. I usually make about $16.50 an hour plus around $40 to $60 in tips per shift. Also check whether there are any extra shifts available on the calendar."
+  },
+  {
+    "turn": "Turn 8",
+    "prompt": "Review my expenses. Look at my grocery delivery orders from the past couple of months and tell me what I have been spending on groceries. I feel like I have been ordering way more than the $180 I budgeted. Check the food delivery app too, because I think the takeout category is getting out of control."
+  },
+  {
+    "turn": "Turn 9",
+    "prompt": "My spending needs to get under control before December when things get tight. Add a reminder on my calendar for November 15th about the Cascadia tuition payment. It is $175 per month. I also need to talk to Jude and Tessa about winter heating bills. Tell me when utilities usually start spiking."
+  },
+  {
+    "turn": "Turn 10",
+    "prompt": "Add the approved calendar reminders. Draft a mail to Bridgetown Rentals asking whether they are doing winter weatherstripping this year. I want to know before I talk to Jude and Tessa. Draft it from my mail account. Also check the real estate site to see what comparable rentals in Buckman are going for, specifically three-bedroom, one-bath places around 1,100 square feet."
+  },
+  {
+    "turn": "Turn 11",
+    "prompt": "Show me the Bridgetown mail draft before it goes out. Check the doorbell camera because Tessa mentioned that a package was delivered yesterday, but I never saw it. Also remind me when utilities are due. I think Jude handles that, but I want to make sure I transferred him the money."
+  },
+  {
+    "turn": "Turn 12",
+    "prompt": "Send the approved Bridgetown mail. The doorbell camera footage shows the package was delivered at 2 PM, which makes it strange that it is missing. Draft a casual mail to Tessa asking whether she grabbed it. Also check whether there were any doorbell events after 2 PM yesterday, because someone might have taken it."
+  },
+  {
+    "turn": "Turn 13",
+    "prompt": "Cancel the draft to Tessa because I will handle it myself. Start planning Friendsgiving on November 22nd. I want to do the usual house gathering plus Loyal Legion. Check ticketing sites for good shows happening that weekend in Portland, especially something Jude would like since he is into funk, soul, and hip hop. Also check the calendar to make sure there is no band practice or gig conflict."
+  },
+  {
+    "turn": "Turn 14",
+    "prompt": "Save a note in the notes app about the Friendsgiving show options so I do not forget them. Check the cloud drive for the latest mix notes from the last Pinewood Sound session. I think we recorded session 3 in July. Also find any scheduling notes on the cloud drive for session 4."
+  },
+  {
+    "turn": "Turn 15",
+    "prompt": "Save the approved Friendsgiving note page. The mix notes say we still need guitar overdubs on tracks 2 and 4. Check whether there is a shared band document on the cloud drive with the full EP track listing. I want to confirm which songs still need work before session 4. Do not share any of this with anyone outside the band."
+  },
+  {
+    "turn": "Turn 16",
+    "prompt": "Check band attendance for this Sunday. Find out whether Suki has confirmed that she can make practice, since she has been unreliable about it lately. Check the calendar for any notes about her attendance, and remind me what time practice starts. I always forget whether it is 1 or 2."
+  },
+  {
+    "turn": "Turn 17",
+    "prompt": "Draft a mail to the band confirming that everyone is good for Sunday at 2 PM. Do not single Suki out, and make it a general check-in. Also check the weather for Sunday. If it is going to rain, I need to figure out how I am getting my gear there since I bike."
+  },
+  {
+    "turn": "Turn 18",
+    "prompt": "Send the approved band mail. Since it looks like it will rain, check the ride-hailing app for a ride estimate from my place in Buckman to Stumptown Studios on Sunday around 1 30 PM. Also check the map app for how long it would take by bike versus ride-hailing. I might bike in the rain if the ride is too expensive."
+  },
+  {
+    "turn": "Turn 19",
+    "prompt": "I will probably ask Jude for a ride instead of taking a ride-hailing car. I am thinking about selling my old Yamaha acoustic. Not the Telecaster, never the Telecaster, but the Yamaha has been sitting in the closet for about a year. Check what similar ones are selling for on the marketplace, and tell me whether there is a way to list it somewhere."
+  },
+  {
+    "turn": "Turn 20",
+    "prompt": "Do not list the guitar anywhere yet because I want to think about it. Check my professional network. I have not looked at it in a long time, but someone at the cafe mentioned they found a part-time gig there, and I am wondering whether there are any music-related side jobs in Portland. I am not trying to leave Hawthorne. I just want extra income, especially with October coming up."
+  },
+  {
+    "turn": "Turn 21",
+    "prompt": "Save a list of the interesting professional network jobs in the notes app for later. Set up a house meeting with Jude and Tessa about winter heating bills. Check all three of our calendars and find a time this week that works. Evening is preferred after 6 PM."
+  },
+  {
+    "turn": "Turn 22",
+    "prompt": "Draft a mail to Jude and Tessa asking whether we can do a house meeting this week about utilities. Say that evenings work best for me and ask what night is good for them. Keep it relaxed. Do not mention that the bills might go up, because I do not want to worry Tessa before we know the actual numbers."
+  },
+  {
+    "turn": "Turn 23",
+    "prompt": "Send the approved mail to Jude and Tessa. I think I got a reminder about scheduling an appointment at Fern Valley Community Health Clinic, but I have been avoiding it. Check when my last dentist appointment was because I feel like it has been way too long."
+  },
+  {
+    "turn": "Turn 24",
+    "prompt": "Find a dentist in Portland that takes Oregon Health Plan, but do not schedule anything yet. Also check whether Fern Valley has any openings. I should probably do a general checkup too, since it has been almost a year."
+  },
+  {
+    "turn": "Turn 25",
+    "prompt": "Go through the cloud drive and find the backup recording studio list I saved. I mean the places that were $25 to $40 per hour in case Pinewood falls through. I want to double-check whether they are still in that price range."
+  },
+  {
+    "turn": "Turn 26",
+    "prompt": "The backup studio prices in the cloud drive are outdated. Draft three short mails asking each studio for current hourly rates and availability for November and December. Mention that it is for a five-track indie EP with guitar overdubs and mixing. Do not mention Pinewood Sound directly, because I do not want to damage that relationship if we end up staying there."
+  },
+  {
+    "turn": "Turn 27",
+    "prompt": "Review the three studio mail drafts and check reviews for all three studios on the review site before anything is sent. The third studio had weak mixing reviews, and I do not want to waste time contacting a place that is not good."
+  },
+  {
+    "turn": "Turn 28",
+    "prompt": "Do not send the mail to the third studio. Send only the first two approved mails. Also check our band’s social media and see how the follower count is doing. Check whether Leo posted anything recently about the Analog Lounge show, since I told him to start promoting it."
+  },
+  {
+    "turn": "Turn 29",
+    "prompt": "Draft a mail to Leo directly, not to the whole band, asking him to start promoting the Analog Lounge show. We agreed he would handle social media, but the show is getting close. Keep it friendly and not aggressive."
+  },
+  {
+    "turn": "Turn 30",
+    "prompt": "Send the approved mail to Leo. Build a master timeline in the notes app for November through January. I want all the big things in one place, including gigs, EP sessions, birthdays, winter bills, tuition, open mic dates, Marcus-related plans, and everything else you know about."
+  },
+  {
+    "turn": "Turn 31",
+    "prompt": "Check my calendar to make sure I do not have shifts on November 16th, because the Analog Lounge show is that day and I need the whole afternoon free for the 7 30 PM soundcheck. Also check whether the EP session on November 24th conflicts with a shift."
+  },
+  {
+    "turn": "Turn 32",
+    "prompt": "Set a reminder for me to check with Derek about November 16th and November 24th specifically. Remind me the Thursday before each date, since that is when he usually posts the schedule. Also add a note to the calendar events saying I need those days free."
+  },
+  {
+    "turn": "Turn 33",
+    "prompt": "Add the approved calendar reminders and notes. I promised Marcus we would do a Cannon Beach day trip over Thanksgiving weekend, but I need to figure out the logistics. Check what the weather is usually like in Cannon Beach in late November, and look at the map app for how to get there without a car, probably by transit. Also check how much a short-term rental would be for one night there."
+  },
+  {
+    "turn": "Turn 34",
+    "prompt": "A one-night short-term rental is more than I want to spend, so evaluate a day trip instead. Check the bus schedule and figure out whether we could go in the morning and come back at night. I do not want to spend money we do not have right before December gets tight."
+  },
+  {
+    "turn": "Turn 35",
+    "prompt": "Draft a Cannon Beach day trip plan in the notes app. Include the bus schedule, estimated costs, and things to do there. I know there is a cool bookstore, and we can walk on the beach. Check the review site for food options too, so we do not end up paying tourist prices for a bad sandwich."
+  },
+  {
+    "turn": "Turn 36",
+    "prompt": "Save the approved Cannon Beach plan to the notes app. Derek just called about a shift change, so I do not want to miss anything time-sensitive."
+  },
+  {
+    "turn": "Turn 37",
+    "prompt": "Derek wants to know whether I can pick up a closing shift this Thursday from 1 PM to 7 PM. I would normally say yes because the extra money would help, but check the calendar for any open mic conflict first. Calculate how much I would make from that extra shift."
+  },
+  {
+    "turn": "Turn 38",
+    "prompt": "Draft a reply mail to Derek saying I will take the extra shift, and add it to my calendar. Also show my full financial picture right now, including income from shifts so far this month, any band income, and bills still coming up. Compare everything against my usual monthly budget."
+  },
+  {
+    "turn": "Turn 39",
+    "prompt": "Send the approved reply mail to Derek and add the shift to my calendar. Check the grocery delivery app for cleaning supplies. I need all-purpose cleaner, sponges, trash bags, and maybe Magic Eraser-type items. Tell me what it would cost delivered."
+  },
+  {
+    "turn": "Turn 40",
+    "prompt": "The cleaning supplies are under my limit, so order them for delivery tomorrow morning. Also revisit the earlier marketplace and music app gift research for Marcus. Tell me what the vinyl options were again. Check whether Pho Van has gift cards, because vinyl plus a dinner gift card could be a good combo."
+  },
+  {
+    "turn": "Turn 41",
+    "prompt": "The Japanese Breakfast vinyl on the marketplace plus a Pho Van gift card would be perfect together. Check the vinyl shipping cost and arrival date. I need it before Saturday. If it will not arrive in time, check whether there is anything similar on a major online store. Also look for that album on the music app so I can make sure he does not already have it on vinyl, since he mentioned his collection the other day."
+  },
+  {
+    "turn": "Turn 42",
+    "prompt": "Shipping is 5 to 7 business days, so it will not arrive by Saturday. Check whether there is a record store near me that might have it. Use the map app to find record stores in SE Portland. Check whether Powell’s has a music section, and check the hours for Powell’s and Music Millennium."
+  },
+  {
+    "turn": "Turn 43",
+    "prompt": "I will stop by Music Millennium after my shift tomorrow. Check my task manager for any open tasks. I feel like I have some old to-do items there that I never finished. Also check the notes app, because I think I had notes about apartment decoration ideas that Jude and I talked about."
+  },
+  {
+    "turn": "Turn 44",
+    "prompt": "Archive only the task manager items that are definitely finished. Archive set up band social media, find rehearsal space, and register for Cascadia alumni mail. Do not touch anything else."
+  },
+  {
+    "turn": "Turn 45",
+    "prompt": "Find whether Suki’s birthday and Leo’s birthday are stored anywhere. I want to plan something for Suki’s birthday. I know Linda’s birthday is October 30 and Hank’s birthday is December 8."
+  },
+  {
+    "turn": "Turn 46",
+    "prompt": "Since Suki’s and Leo’s birthdays are not stored, I will mail them. Help me figure out a cleaning schedule for the house. Tessa and I keep clashing about dishes, and Jude never takes out the recycling. I want to propose something fair at the house meeting. Check whether there is a template in the notes app or the cloud drive that I can customize."
+  },
+  {
+    "turn": "Turn 47",
+    "prompt": "Save the approved cleaning rotation to the notes app so I can bring it up at the meeting. Check the music app for the Song Exploder episode about Japanese Breakfast. I want to listen to it before giving Marcus the vinyl so I can talk about the album with him. Also check whether there are any new Japanese Breakfast tour dates on the ticketing site. Maybe I could get him concert tickets later as a bonus gift."
+  },
+  {
+    "turn": "Turn 48",
+    "prompt": "Save the Portland concert date as a note in the notes app, maybe for a Christmas idea, because it is above my current budget. Build a state of my life summary that pulls everything together, including financial status, upcoming calendar items, open tasks, music progress, house situation, and health stuff. I want a clean snapshot I can look at when I feel overwhelmed."
+  },
+  {
+    "turn": "Turn 49",
+    "prompt": "Save the approved life summary to the notes app. Check the space tracker for the next visible ISS pass over Portland. Marcus and I were talking about wanting to see it, and I said I would look it up. Also check tonight’s weather. If it is clear, maybe we could go up to Mt. Tabor."
+  },
+  {
+    "turn": "Turn 50",
+    "prompt": "There is an ISS pass tonight, and the weather is supposed to be clear. Set up my morning briefing for tomorrow. Check my calendar and the weather, and remind me to stop by Music Millennium for the vinyl after my shift. Schedule all of that."
+  }
+]
